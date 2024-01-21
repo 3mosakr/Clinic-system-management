@@ -1,0 +1,3 @@
+
+➢	Clinic System Management (C Project).
+Edit or delete patient record and reserve slot or cancel the reservation with the doctor.

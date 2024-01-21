@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "client.h": "c",
+    "typeinfo": "c"
+  }
+}
